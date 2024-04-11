@@ -1,4 +1,7 @@
 # PathPlanningAstar
+
+Hello world!
+
 An implementation of a mobile robot path planner in Python and ROS
 
 This implementation is essentially a ROS node responsible for robot path planning. It accomplishes the following:
